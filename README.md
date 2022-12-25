@@ -8,7 +8,7 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/zainalproject/00-project-gui-uts5)
 [![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://github.com/zainalproject/00-project-gui-uts5/commits/main)
 
-Sebuah catatan yang dibuat dengan tujuan berbagi pengalaman bernuansa pemrograman. Repositori ini merupakan rangkuman dari beberapa kasus dan permasalahan yang pernah saya alami selama belajar pemrpgraman secara otodidak. Dalam catatan ini, mungkin dapat membantu dan memberikan solusi terhadap permasalahan yang ada.
+Sebuah catatan yang dibuat dengan tujuan berbagi pengalaman bernuansa pemrograman. Repositori ini merupakan rangkuman dari beberapa kasus dan permasalahan yang pernah saya alami selama belajar pemrograman secara otodidak. Dalam catatan ini, mungkin dapat membantu dan memberikan solusi terhadap permasalahan yang ada.
 
 ## Mau Kontribusi ?
 Saya berterimakasih jika kamu ingin berkontribusi dalam repositori ini sehingga repositori ini lebih baik dan UpToDate kedepannya.
